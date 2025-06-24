@@ -7,7 +7,7 @@ Según esta norma, los límites para este contaminante (PM2.5) son:
 **Objetivo General**: Evaluación de la calidad del aire en el municipio de Soacha a partir de las concentraciones de PM2.5 medidas por monitores de bajo costo y con base en la normatividad colombiana vigente
 
 **Insumos**:    
-•	Concentraciones de PM2.5 en las estaciones de bajo costo instaladas en el municipio de Soacha, lo anterior para el mes de marzo.   
+•	Concentraciones de PM2.5 en las estaciones de bajo costo instaladas en el municipio de Soacha, lo anterior para el mes de marzo. Fuente de datos: Servidor API de Aire Ciudadano      
 •	Ubicación de las estaciones de bajo costo instaladas en el municipio de Soacha    
 •	Mapa de uso de suelo o coberturas de la tierra del municipio de Soacha   
 •	Modelo de elevación digital (DEM)   
