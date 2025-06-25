@@ -1,4 +1,7 @@
-# Evaluación de la  Calidad de  Aire en  el Municipio de Soacha
+# Evaluación de la  Calidad de  Aire en  el Municipio de Soacha   
+
+Diego Molina y Camila Canchon   
+
 En Colombia, la normativa que regula los límites máximos permisibles de material particulado menor a 2,5 micras (PM2.5) en el aire ambiente, es la Resolución 2254 de 2017 del Ministerio de Ambiente y Desarrollo Sostenible. Esta Resolución establece los estándares de calidad del aire para proteger la salud humana y el ambiente.
 Según esta norma, los límites para este contaminante (PM2.5) son:   
 •	Anual: 25 µg/m³    
